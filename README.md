@@ -15,7 +15,7 @@ You can use any resource you like, and ask us questions during the session.
 5.  When launching the app for the first time, the `addItem` input should be in focus (5pt)
     <!-- 7.  Fix the counter on the footer (5pt) -->
     <!-- 8.  Add a code comment explaining what `delegateEvent` function does (10pt) -->
-6.  Load and display tasks from https://jsonplaceholder.typicode.com/todos when application loads (20pt)
+<!-- 6.  Load and display tasks from https://jsonplaceholder.typicode.com/todos when application loads (20pt) -->
 <!-- 10. Prevent adding task that contain `< >` in the title. (replace with blank), For example: 'Learn < JS >' should become 'Learn JS' (10pt)  -->
 7.  Handle the error in the console (15pt)
 
