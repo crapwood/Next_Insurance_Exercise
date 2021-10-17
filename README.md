@@ -8,7 +8,7 @@ You can use any resource you like, and ask us questions during the session.
 ## Tasks:
 
 1.  Tasks should persist after closing the browser. ( 5pt )
-2.  Prevent duplication in tasks. ( 10pt )
+<!-- 2.  Prevent duplication in tasks. ( 10pt ) -->
 <!-- 3.  Fix the `clear completed` action in the footer ( 15pt ) -->
 3.  After doubleClick on an item, clicking enter should exit "edit" (10pt)
 4.  Fix Style issue when inserts a lot of items - add short description for how you approach it (5pt)
